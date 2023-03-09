@@ -1,0 +1,69 @@
+[33mcommit 99b3d5c35eb90b9f045d49a812a7afcf5648f37c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 23:38:31 2023 +0530
+
+    Changes are made
+
+[33mcommit 19121a2c0b0e4966a736ba3c83d95860ddfcb035[m
+Merge: 73d31f2 1ed73c9
+Author: llewellynsji <95616274+llewellynsji@users.noreply.github.com>
+Date:   Thu Mar 9 23:35:17 2023 +0530
+
+    Merge pull request #2 from llewellynsji/automation
+    
+    5.java is added
+
+[33mcommit 1ed73c9a02addad76028710a13785e57f9196ac1[m[33m ([m[1;31morigin/automation[m[33m, [m[1;32mautomation[m[33m)[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 23:32:49 2023 +0530
+
+    5.java is added
+
+[33mcommit 73d31f208321e377e763e58a3846e662ddbc2ca5[m[33m ([m[1;31morigin/feature4[m[33m, [m[1;32mfeature4[m[33m)[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 23:29:24 2023 +0530
+
+    4.java is added
+
+[33mcommit 7868f4a9b25687b27ae406335373c18cb15f97f0[m[33m ([m[1;32mfeature2[m[33m)[m
+Merge: 7a5ff94 70bd3f9
+Author: llewellynsji <95616274+llewellynsji@users.noreply.github.com>
+Date:   Thu Mar 9 21:26:47 2023 +0530
+
+    Merge pull request #1 from llewellynsji/feature2
+    
+    d.java is added
+
+[33mcommit 70bd3f9fbd1fef116da5667dfd6b1a333496cd3c[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 21:21:11 2023 +0530
+
+    d.java is added
+
+[33mcommit 7a5ff943dbaeddc3ef6a84cbfeebbc21842c6b68[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 20:24:24 2023 +0530
+
+    c.java is added
+
+[33mcommit db1ff3bc2da7eac5bc5a3f5f0da3ca9d0ecd4e1a[m
+Author: llewellynsji <95616274+llewellynsji@users.noreply.github.com>
+Date:   Thu Mar 9 20:13:43 2023 +0530
+
+    Creating b.java
+    
+    File for learning cloning
+
+[33mcommit 819e6f7c128aa52d646d527501c0557421297e0a[m
+Author: llewellynsji <95616274+llewellynsji@users.noreply.github.com>
+Date:   Thu Mar 9 20:11:41 2023 +0530
+
+    Second Commit
+    
+    Created Readme file
+
+[33mcommit 94099b47ae850c147a0fea28d3f6b980b1f3b598[m
+Author: llewellynsji <llewellyn.thattazhi@sjinnovation.com>
+Date:   Thu Mar 9 19:53:20 2023 +0530
+
+    First commit
